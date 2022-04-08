@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick @h1ddenka
-- 👀 I’m interested in Python, Django, PostgreSQL
+- 👀 I’m interested in PHP, Python, Django, PostgreSQL
 - 🌱 I’m currently learning Python, SQL queries
 - 📫 How to reach me: t.me/h1ddenka
 
